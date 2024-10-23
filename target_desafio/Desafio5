@@ -1,0 +1,22 @@
+
+Vamos separar os interruptores em I, II, III e as salas em A, B e C.
+
+Ligo o interruptor I e deixo-o ligado por um tempo, depois apago-o e ligo o interruptor II. Em seguida, vou para a sala A.
+
+A lâmpada pode estar em alguns estados diferentes:
+
+Apagada e quente (indica que o interruptor correspondente é o I).
+Acesa (indica que o interruptor correspondente é o II).
+Apagada e fria (indica que o interruptor correspondente é o III).
+
+Tendo identificado qual interruptor está ligado à sala A, volte à sala dos interruptores e ligue um dos que não estão acesos.
+
+Para usar como exemplo, vamos considerar que o interruptor II ligou a lâmpada da sala A. Então, agora eu ligaria o interruptor I e iria para a sala B.
+
+A lâmpada da sala B pode estar em dois estados diferentes:
+
+Acesa (indica que o interruptor I está ligado à sala B, o interruptor II à sala A e o interruptor III à sala C).
+Apagada (indica que o interruptor I está ligado à sala C, o interruptor II à sala A e o interruptor III à sala B).
+
+
+E é assim que eu descobriria qual interruptor controla cada lâmpada.
